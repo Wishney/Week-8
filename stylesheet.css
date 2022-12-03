@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(197, 241, 241);
+    color: azure;
+    font: 1.5em "Fira Sans", sans-serif;
+    
+}
+h1 {
+    color: coral;
+}
+#intro {
+    font-size: 1.3em;
+}
+.colorful {
+    color: orange;
+}
+
+h2 {
+    color:blueviolet;
+}
+
+p {
+    color:rgb(192, 47, 168);
+}
+
+ul {
+    color:rgb(47, 87, 7);
+}
+
+tr {
+    color:rgb(221, 151, 38);
+}
+
+td {
+    color:deeppink
+}
+
+h3 {
+    color:rgb(57, 18, 157)
+}
+
+form {
+    color:blueviolet
+}
+
+img:hover {
+    transform: scaleX(-1);
+  }
